@@ -1,0 +1,188 @@
+.bodyIndex,.bodySabores,.bodyProductos,.bodyContacto{
+    padding: 5px;
+    /* margin-left: 15px; */
+    /* margin-right: 15px; */
+    /* background-color: wheat; */
+    background-image: url("/images/texturaMadera02.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+/* TITULO SITIO WEB */
+
+.divTitleIndex{
+    margin-left: 400px;
+}
+
+.tituloIndex{
+    display: flex;
+    justify-content: center;
+    font-size: 75px;
+    color:#331F16;
+    /* margin-left: 100px; */
+}
+
+/* HEADER */
+
+.headerIndex{
+    background-image: url("/images/texturaMadera02.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+} 
+
+.wppPedidos{
+    width: 50px;
+    height: 50px;
+}
+
+/* INDEX PRINCIPAL */
+
+.gridIndex{
+    display: grid;
+    grid-template-columns: 400px 550px 350px;
+    grid-template-rows: 500px; 
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+}
+
+.horarios{
+    background-image:url("/images/texturaMadera03.jpg");
+    background-size: cover;
+    height: 42%;
+    margin-bottom: 30px;
+    color: white;
+    padding-left: 5px;
+}
+
+.redesSociales{
+    background-image:url("/images/texturaMadera03.jpg");
+    background-size: cover;
+    height: 42%;
+    color: white;
+    padding-left: 5px;
+}
+
+.heladoIndex{
+    width: 550px;
+    height: 450px;
+}
+
+.imgAlfajor,.imgSandwich,.imgTortaHelada,.imgCubanote,.imgBarrasHeladas,.imgCafeteria,.Milshake01,.Medialunas01,.Tostados01{
+    width: 450px;
+    height: 450px;
+}
+
+/* NAV TITULO SABORES*/
+
+.divNavIndex{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    margin-bottom: 15px;
+    margin-left: 400px;
+    background-image: url(/images/texturaMadera03.jpg);
+}
+
+.navInicio,.navSabores,.navProductos,.navContacto{
+    text-decoration: none;
+    color: white;
+}
+
+/* SABORES */
+
+.TittleChocolates,.tittleDulceDeLeches,.tittleCremas,.TittleFrutales{
+    display: flex;
+    color: #331F16;
+    background-color: beige;
+    border-style:outset;
+}
+
+.divSabores{
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+.list-group-item{
+    font-size:large;
+    background-color: #5A3422;
+    color: white;
+}
+
+
+
+
+/* PRODUCTOS */
+
+.bodyProductos{
+    
+}
+
+.DivCardsProductos{
+    display: flex;
+    justify-items:center;
+    flex-wrap:wrap;
+    margin-left: 75px;
+}
+
+.card{
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.card-img-top{
+    height: 13rem;
+}
+
+btn-primary{
+    color:#331F16;
+}
+
+/*CONTACTO*/
+
+.footerContacto{
+    display: grid;
+    grid-template-columns: 450px 450px;
+    grid-template-rows: 450px;
+    grid-column-gap: 435px;
+}
+
+.imgSavoryHelado{
+    width: 600px;
+    height: 450px;
+}
+
+.direccion{
+    background-image:url("/images/texturaMadera03.jpg");
+    background-size: cover;
+    /* height: 42%; */
+    color: white;
+    padding-left: 5px;
+}
+
+.nosotros{
+    background-image:url("/images/texturaMadera03.jpg");
+    background-size: cover;
+    /* height: 42%; */
+    color: white;
+    padding-left: 5px;
+}
+
+.redesSocialesFooter{
+    background-image:url("/images/texturaMadera03.jpg");
+    background-size: cover;
+    /* height: 42%; */
+    color: white;
+    padding-left: 5px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
