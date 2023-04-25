@@ -4,7 +4,7 @@
     /* margin-right: 15px; */
     /* background-color: wheat; */
     /* background-image: url("./images/texturaMadera02.jpg"); */
-    background-image: url("texturaMadera02.jpg");
+    background-image: url("/images/texturaMadera02.jpg");
     background-size:cover;
     background-repeat: no-repeat;
 }
