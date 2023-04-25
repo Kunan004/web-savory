@@ -26,7 +26,7 @@
 /* HEADER */
 
 .headerIndex{
-    background-image: url("texturaMadera02.jpg");
+    background-image: url("/images/texturaMadera02.jpg");
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -47,7 +47,7 @@
 }
 
 .horarios{
-    background-image:url("texturaMadera03.jpg");
+    background-image:url("/images/texturaMadera03.jpg");
     background-size: cover;
     height: 42%;
     margin-bottom: 30px;
@@ -56,7 +56,7 @@
 }
 
 .redesSociales{
-    background-image:url("texturaMadera03.jpg");
+    background-image:url("/images/texturaMadera03.jpg");
     background-size: cover;
     height: 42%;
     color: white;
@@ -81,7 +81,7 @@
     font-size: 25px;
     margin-bottom: 15px;
     margin-left: 400px;
-    background-image: url("texturaMadera03.jpg");
+    background-image: url("/images/texturaMadera03.jpg");
 }
 
 .navInicio,.navSabores,.navProductos,.navContacto{
@@ -156,7 +156,7 @@ btn-primary{
 }
 
 .direccion{
-    background-image:url("texturaMadera03.jpg");
+    background-image:url("/images/texturaMadera03.jpg");
     background-size: cover;
     /* height: 42%; */
     color: white;
@@ -164,7 +164,7 @@ btn-primary{
 }
 
 .nosotros{
-    background-image:url("texturaMadera03.jpg");
+    background-image:url("/images/texturaMadera03.jpg");
     background-size: cover;
     /* height: 42%; */
     color: white;
@@ -172,7 +172,7 @@ btn-primary{
 }
 
 .redesSocialesFooter{
-    background-image:url("texturaMadera03.jpg");
+    background-image:url("../images/texturaMadera03.jpg");
     background-size: cover;
     /* height: 42%; */
     color: white;
