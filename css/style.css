@@ -25,10 +25,10 @@
 /* HEADER */
 
 .headerIndex{
-    background-image: url("/images/texturaMadera02.jpg");
+    background-image: url("./images/texturaMadera02.jpg");
     background-size:cover;
     background-repeat: no-repeat;
-} 
+}
 
 .wppPedidos{
     width: 50px;
