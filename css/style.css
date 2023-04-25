@@ -4,7 +4,7 @@
     /* margin-right: 15px; */
     /* background-color: wheat; */
     /* background-image: url("./images/texturaMadera02.jpg"); */
-    background-image: url("../images/texturaMadera02.jpg");
+    background-image: url("../images/ImgFondoLadrillos.jpg");
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -24,9 +24,9 @@
 }
 
 .headerIndex{
-    background-image: url("../images/ImgFondoLadrillos.jpg");
+    /* background-image: url("../images/ImgFondoLadrillos.jpg");
     background-size:cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
 }
 
 .headerWhatsapp{
